@@ -23,7 +23,7 @@ def rss_icon(rss_url)
   %Q|<a href='#{rss_url}' title='订阅'> #{gen_icon(config['icons']['rss'])} </a>|
 end
 
-def gen_icon(icon_src, width=25, height=25, link=nil, title=nil)
+def gen_icon(icon_src, width=20, height=20, link=nil, title=nil)
   if link
     %Q|<a href="#{link}" title="#{title}"> <img src="#{icon_src}" width="#{width}" height="#{width}"> </a>|
   else
@@ -37,7 +37,7 @@ end
 
 def category_head(category)
   return "\n ## #{category} \n" unless category == 'IPN'
-  "\n## [#{category}](https://ipn.li) &nbsp;&nbsp; #{gen_icon(config['icons']['twitter'], 25,25, 'https://twitter.com/ipnpodcast', 'IPN on Twitter')}\n"
+  "\n## [#{category}](https://ipn.li) &nbsp;&nbsp; #{gen_icon(config['icons']['twitter'], 20,20, 'https://twitter.com/ipnpodcast', 'IPN on Twitter')}\n"
 end
 
 content = "<!-- Generated at #{Time.now} --> \n"
@@ -52,7 +52,7 @@ podcasts_h.each do |category, podcasts|
     content << <<~CONTENT
     <details>
      <summary>
-       #{link_to(podcast['name'], podcast['website'])} #{rss_icon(podcast['rss'])}
+       #{link_to(podcast['name'], podcast['website'])} &nbsp;&nbsp; #{rss_icon(podcast['rss'])}
      </summary>
      <p>
 

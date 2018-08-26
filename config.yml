@@ -1,30 +1,30 @@
 ---
 head: |
   # 一些不错的中文播客 :smile:
-    - **Podcasts软件**: [Android](#android_app) / [IOS](#ios_app) / [MacOS](#macos_app) / [Linux](#linux_app) / [web](#web_app)
-    - [**英语podcasts**](https://github.com/rShetty/awesome-podcasts)
+    - **[播客软件](#播客软件)**
+    - [**英语播客**](https://github.com/rShetty/awesome-podcasts)
 
 foot: |
-  ## 博客软件
-    * Android
+  ## 播客软件
+    * **Android**
       * [Player FM](https://play.google.com/store/apps/details?id=fm.player)  免费且没广告(暂时不支持登录验证的RSS)
       * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) 功能全
       * [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
       * [更多...](https://play.google.com/store/search?q=podcasts)
-    * IOS
+    * **IOS**
       * Itunes
       * [Podcasts](https://itunes.apple.com/us/app/podcasts/id525463029?mt=8) 苹果自己的
       * [Overcast](https://overcast.fm/) Overcast is free, supported by tasteful ads and an optional subscription to remove them.
-    * MacOS
+    * **macOS**
       * Itunes
-    * Linux
+    * **Linux**
       * [Winds](https://getstream.io/winds): windows, MacOS, Linux 都有
       * [Vocal](https://vocalproject.net/)
       * [gpodder](https://gpodder.github.io/)
       * [Clementine](https://www.clementine-player.org/)
       * [cantata](https://github.com/CDrummond/cantata)
       * [Greg](https://github.com/manolomartinez/greg): python写的命令行工具用来下载订阅的podcasts
-    * Web
+    * **Web**
       * [Winds](https://winds.getstream.io/)
       * [Player FM](https://player.fm/)
 
