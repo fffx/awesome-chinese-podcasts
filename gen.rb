@@ -32,7 +32,7 @@ def gen_icon(icon_src, width=20, height=20, link=nil, title=nil)
 end
 
 def link_to(title, href)
-  %Q|<a href="#{href}">#{title}</a>|
+  %Q|<a href="#{href}" title="#{href}">#{title}</a>|
 end
 
 def category_head(category)
@@ -51,7 +51,7 @@ podcasts_h.each do |category, podcasts|
     validate! podcast
     content << <<~CONTENT
     <details>
-     <summary>
+     <summary title='展开'>
        #{link_to(podcast['name'], podcast['website'])} &nbsp;&nbsp; #{rss_icon(podcast['rss'])}
      </summary>
      <p>
