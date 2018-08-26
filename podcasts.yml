@@ -2,7 +2,7 @@ IPN:
   -
     name: 太医来了
     website: https://taiyilaile.com
-    desciption: 《太医来了》由 IPN 出品、由前骨科医生初洋和妇产科医生田吉顺主持，是中文互联网第一档医生谈话类播客。节目里没有老专家讲养生，只有几个医生聊聊医院里的事儿，顺便给大家做做科普。
+    description: 《太医来了》由 IPN 出品、由前骨科医生初洋和妇产科医生田吉顺主持，是中文互联网第一档医生谈话类播客。节目里没有老专家讲养生，只有几个医生聊聊医院里的事儿，顺便给大家做做科普。
     rss: http://taiyilaile.com/rss
     itunes: https://itunes.apple.com/podcast/id921829208
     episode_duration: 60
@@ -15,6 +15,7 @@ IPN:
     primium: true
   -
     name: 内核恐慌kernelpanic((已从IPN独立出来)
+    description: 《内核恐慌》是一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
     website: https://kernelpanic.fm/
     rss: https://kernelpanic.fm/feed
     itunes: https://itunes.apple.com/cn/podcast/id928916244
@@ -31,7 +32,7 @@ IPN:
     name: 时尚怪物
     website: http://fashionmonster.fm/
     rss: http://fashionmonster.fm/rss
-    desciption: 《时尚怪物》是一档不只谈时尚的播客节目，王汉洋主持，IPN 出品。
+    description: 《时尚怪物》是一档不只谈时尚的播客节目，王汉洋主持，IPN 出品。
     episode_duration: 30
 
 
@@ -49,8 +50,9 @@ IPN:
     rss: http://www1.rfi.fr/radiofr/PodCast/Podcast_CN_REVUE.xml
     description: 法国每份报纸，独立有别，各家报纸，各家评说。“法国报纸摘要”首选对中国事务的评论与分析，以飨听众
   -
-    name: RFI - 第二次播音（新闻）19：00 - 19：15（北京时间 ）
+    name: RFI - 第二次播音
     rss: http://www1.rfi.fr/radiofr/PodCast/Podcast_chinese_news_11h00.xml
+    description: RFI - 第二次播音（新闻）19：00 - 19：15（北京时间 ）
     website: http://trad.cn.rfi.fr/%E4%B8%AD%E5%9C%8B/20180819-2018%E5%B9%B48%E6%9C%8819%E6%97%A5%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%92%AD%E9%9F%B3%E4%B8%80%E5%B0%8F%E6%99%82%E5%8C%97%E4%BA%AC%E6%99%82%E9%96%931900%E9%BB%9E-2000%E9%BB%9E
 
   -
@@ -70,8 +72,8 @@ IPN:
     website: https://www.ximalaya.com/zhubo/3239336/
     rss: http://www.ximalaya.com/album/246092.xml
     episode_duration: 60
-    description: 作为美国新移民家庭，随口讲述美国生活的点点滴滴.
-从昔日的国内高管到第一个讲述海外的喜马拉雅头部主播，自由君完成了一次次身份的蜕变，目前他既是一个关注生活点滴的新移民家庭的爸爸，又是一个普通的中美跨境创业者，作为移民路上的先行者，他将告诉你他看见的真实美国。
+    description: "作为美国新移民家庭，随口讲述美国生活的点点滴滴.
+从昔日的国内高管到第一个讲述海外的喜马拉雅头部主播，自由君完成了一次次身份的蜕变，目前他既是一个关注生活点滴的新移民家庭的爸爸，又是一个普通的中美跨境创业者，作为移民路上的先行者，他将告诉你他看见的真实美国。"
 
 影视:
   -
@@ -83,6 +85,7 @@ IPN:
   -
     name: 404观影小组
     website: http://www.lizhi.fm/user/144078
+    description: 两只北美党，真心诚意，瞎聊电影，任性发布！欢迎关注新浪微博@404电影，第一时间更新节目信息。
     rss: http://www.lizhi.fm/rss/1939121.xml
     episode_duration: 60
 

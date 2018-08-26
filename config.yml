@@ -1,10 +1,35 @@
-head: "一些不错的中文播客 :smile:
-- **Podcasts软件**: [Android](#android_app) / [IOS](#ios_app) / [MacOS](#macos_app) / [Linux](#linux_app) / [web](#web_app)
-- [**英语podcasts**](https://github.com/rShetty/awesome-podcasts)"
-foot: "## 博客软件
-###
+---
+head: |
+  # 一些不错的中文播客 :smile:
+    - **Podcasts软件**: [Android](#android_app) / [IOS](#ios_app) / [MacOS](#macos_app) / [Linux](#linux_app) / [web](#web_app)
+    - [**英语podcasts**](https://github.com/rShetty/awesome-podcasts)
 
-"
+foot: |
+  ## 博客软件
+    * Android
+      * [Player FM](https://play.google.com/store/apps/details?id=fm.player)  免费且没广告(暂时不支持登录验证的RSS)
+      * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) 功能全
+      * [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
+      * [更多...](https://play.google.com/store/search?q=podcasts)
+    * IOS
+      * Itunes
+      * [Podcasts](https://itunes.apple.com/us/app/podcasts/id525463029?mt=8) 苹果自己的
+      * [Overcast](https://overcast.fm/) Overcast is free, supported by tasteful ads and an optional subscription to remove them.
+    * MacOS
+      * Itunes
+    * Linux
+      * [Winds](https://getstream.io/winds): windows, MacOS, Linux 都有
+      * [Vocal](https://vocalproject.net/)
+      * [gpodder](https://gpodder.github.io/)
+      * [Clementine](https://www.clementine-player.org/)
+      * [cantata](https://github.com/CDrummond/cantata)
+      * [Greg](https://github.com/manolomartinez/greg): python写的命令行工具用来下载订阅的podcasts
+    * Web
+      * [Winds](https://winds.getstream.io/)
+      * [Player FM](https://player.fm/)
+
+  ## License is [unlicense](http://unlicense.org/)
+  <a title='By Various. See log. (Original SVG was based on File:PD-icon.png by Duesentrieb, which was based on Image:Red copyright.png by Rfl.) (Created by uploader. Based on similar symbols.) [Public domain], via Wikimedia Commons' href='https://commons.wikimedia.org/wiki/File:PD-icon.svg'><img width='128' alt='PD-icon' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png'></a>
 
 icons:
   rss: https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg
