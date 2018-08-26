@@ -1,0 +1,200 @@
+IPN:
+  -
+    name: 太医来了
+    website: https://taiyilaile.com
+    desciption: 《太医来了》由 IPN 出品、由前骨科医生初洋和妇产科医生田吉顺主持，是中文互联网第一档医生谈话类播客。节目里没有老专家讲养生，只有几个医生聊聊医院里的事儿，顺便给大家做做科普。
+    rss: http://taiyilaile.com/rss
+    itunes: https://itunes.apple.com/podcast/id921829208
+    episode_duration: 60
+  -
+    name: 博物志MUSEELOGUE(已从IPN独立出来)
+    website: https://bowuzhi.fm
+    rss: https://museelogue.fireside.fm/rss
+    description: 博物馆主题的娱乐节目
+    episode_duration: 60
+    primium: true
+  -
+    name: 内核恐慌kernelpanic((已从IPN独立出来)
+    website: https://kernelpanic.fm/
+    rss: https://kernelpanic.fm/feed
+    itunes: https://itunes.apple.com/cn/podcast/id928916244
+    episode_duration: 90
+
+  -
+    name: 硬影像
+    website: http://hardimage.pro
+    description: 《硬影像》由 IPN 出品，由罗登主持，是一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。
+    rss: http://hardimage.pro/rss
+    itunes: https://itunes.apple.com/podcast/id982865614
+    episode_duration: 50
+  -
+    name: 时尚怪物
+    website: http://fashionmonster.fm/
+    rss: http://fashionmonster.fm/rss
+    desciption: 《时尚怪物》是一档不只谈时尚的播客节目，王汉洋主持，IPN 出品。
+    episode_duration: 30
+
+
+新闻消息/娱乐/生活/人文:
+  -
+    name: 新闻酸菜管
+    website: http://since1989.org
+    rss: http://since1989.org/feed/wasai
+    episode_duration: 60
+    description: 分享各领域的干货与新知！
+    primium: true
+  -
+    name: RFI - 法国报纸摘要
+    website: http://cn.rfi.fr/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81
+    rss: http://www1.rfi.fr/radiofr/PodCast/Podcast_CN_REVUE.xml
+    description: 法国每份报纸，独立有别，各家报纸，各家评说。“法国报纸摘要”首选对中国事务的评论与分析，以飨听众
+  -
+    name: RFI - 第二次播音（新闻）19：00 - 19：15（北京时间 ）
+    rss: http://www1.rfi.fr/radiofr/PodCast/Podcast_chinese_news_11h00.xml
+    website: http://trad.cn.rfi.fr/%E4%B8%AD%E5%9C%8B/20180819-2018%E5%B9%B48%E6%9C%8819%E6%97%A5%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%92%AD%E9%9F%B3%E4%B8%80%E5%B0%8F%E6%99%82%E5%8C%97%E4%BA%AC%E6%99%82%E9%96%931900%E9%BB%9E-2000%E9%BB%9E
+
+  -
+    name: 报章摘要
+    website: http://gbcode.rthk.hk/TuniS/podcast.rthk.hk/podcast/item.php?pid=837
+    rss: http://gbcode.rthk.hk/TuniS/podcast.rthk.hk/podcast/radio1_newspaper.xml
+    description: 搜罗本港各大报章，阅览最新消息及社评摘要，听众足不出户，能知天下事！
+    episode_duration: 15
+  -
+    name: 講台 – Talkonly
+    website: http://podcast.talkonly.net/
+    rss: http://feeds.feedburner.com/talkonlypc
+    description: Give you the latest IT news in cantonese every Sunday.
+    episode_duration: 60
+  -
+    name: 随口说美国
+    website: https://www.ximalaya.com/zhubo/3239336/
+    rss: http://www.ximalaya.com/album/246092.xml
+    episode_duration: 60
+    description: 作为美国新移民家庭，随口讲述美国生活的点点滴滴.
+从昔日的国内高管到第一个讲述海外的喜马拉雅头部主播，自由君完成了一次次身份的蜕变，目前他既是一个关注生活点滴的新移民家庭的爸爸，又是一个普通的中美跨境创业者，作为移民路上的先行者，他将告诉你他看见的真实美国。
+
+影视:
+  -
+    name: 黑水公园
+    website: https://www.ximalaya.com/yingshi/3558668/
+    rss: http://www.ximalaya.com/album/3558668.xml
+    episode_duration: 60
+    description: 什么是湿货：无用的、主观的、热烈的、情感的。 音频广播是一种很特别的媒介，比视频、文字都更能直接诉诸情感。 微信订阅号：黑水公园 黑水公园官方粉丝QQ二群：196426701
+  -
+    name: 404观影小组
+    website: http://www.lizhi.fm/user/144078
+    rss: http://www.lizhi.fm/rss/1939121.xml
+    episode_duration: 60
+
+
+科学/科普/历史/人文:
+  -
+    name: 原来是这样/旭岽叨科学
+    website: https://www.ximalaya.com/keji/246622/
+    rss: http://nj.lizhi.fm/rss/318375.xml
+    episode_duration: 40
+    description: "愿好奇心长存！
+不仅仅是冷知识，
+更是串联各科知识的经纬线！
+喜欢天文的朋友也欢迎搜索订阅我们的第一个付费精品专辑《天文原来是这样》。"
+  -
+    name: 天文原来是这样
+    website: https://www.ximalaya.com/keji/8083273/
+    episode_duration: 30
+    primium_only: true
+    description: "听主播旭岽和水兄，两位天文老司机，用一年的时间陪你一起遨游太空，告诉你那些你不曾明白的天文原理。
+天文学不是高不可攀的学术巅峰，天文学是只要你喜欢，它就能成为你终身的兴趣爱好，如果你愿意更进一步，这个节目让你从业余成为专家级达人。希望你可以惊喜的发现：
+天文，原来是这样！
+现在，我们一起飞向宇宙，浩瀚无限！"
+  -
+    name: 博讯台
+    website: https://soundcloud.com/boxun
+    rss: http://feeds.soundcloud.com/users/soundcloud:users:79460826/sounds.rss
+    description: Podcast by 博讯台 (苹果播客搜 “博讯”即可收听）
+    episode_duration: 30
+
+  -
+    name: 一席
+    website: http://www.yixi.tv/speech
+    rss: http://nj.lizhi.fm/rss/29215.xml
+    video: true
+    description: 听君一席话，胜读十年书。「一席」致力于有价值的传播，从2012年8月起，每月一期，邀请人文、科技领域有故事、有智识的嘉宾前来分享见解、体验和对未来的想象。官网：www.yixi.tv 新浪微博：@一席YiXi 微信：yixiclub
+  -
+    name: 非常记录
+    website: https://itunes.apple.com/cn/podcast/fei-chang-ji-lu/id808485910
+    rss: http://feed.cri.cn/rss/a665f130-df8b-43a0-b740-e0a031b285f5
+    description: 《非常纪录》是中国国际广播电台华语广播一档资深的历史人文类节目，旨在“发现历史、照亮未来”。节目内容以中国近、当代史为主，兼顾当下中国人的生活，小故事、大背景，人文角度，真实客观的呈近代以来的中国社会，讲述地道，制作精良。关注微信订阅号 CRI Podcast 及时了解节目更新动态。
+    episode_duration: 30
+
+  -
+    name: 汤小电台
+    website: http://www.lizhi.fm/user/103258
+    rss: http://nj.lizhi.fm/rss/64772.xml
+    description: 有态度，有温度，有观点的电台
+    episode_duration: 50
+
+  -
+    name: 声波飞行员 | sonic pilots
+    website: https://www.lizhi.fm/user/12428189
+    rss: http://www.lizhi.fm/rss/1635236.xml
+    description: 一档关于一切声音的播客节目
+    episode_duration: 60  -
+  -
+    name: 卓老板聊科技
+    website: https://www.ximalaya.com/keji/335347/
+    rss: http://www.ximalaya.com/album/335347.xml
+    description: 理工味逻辑思维，更新人们陈旧观点。还有更精彩内容在《第二季》中！
+    episode_duration: 10
+  -
+    name: 陌声人
+    website: http://www.moofm.com/
+    rss: http://www.ximalaya.com/album/238119.xml
+    itunes: https://itunes.apple.com/cn/podcast/mo-sheng-ren/id482922564?mt=2
+    description: 陌声人，一个人的精神良药，能给你的小惊喜与耳边的温暖。陌声人广播是一非盈利性质播客自媒体品牌。我们不断开展类型化有声节目的制作与传播。陌声人广播在08年的时候由豆瓣“一个陌生人的来信”小组成员举办的录音活动开始。于2010年12月31日在豆瓣小站正式上线。2011年1月登录Podcast，连续3个季度蝉联播客榜前三名，被评为2012最受欢迎播客之一/2014经典播客之一，先后吸引了很多伙伴的加入及参与。自2011年1月到现在，前后共约200人加入。常规驻站成员约45名。共生产节目超过1020个。各平台累计关注人数：480000+人。公众号粉丝3.8W人。全平台节目总下载收听量71000000余次(2017.6)。陌声人的节目以 阅读 电影 情感 为主基调，有情感播客《精神良药》，电影播客《毒家观影指南》，荐书阅读节目《喂你读书》。并积极策划制作了多种特辑有声节目：话题脱口秀《听说》、《音乐玩家》、《有戏》、《原味生活》、《寻爱纪》、《青春记事》、《玫瑰时光》、《一诗一信》、《超级大话王》、《你的岁月我的歌》、《品味经典宫崎骏》、《似水流年岁月如歌》等。陌声人官方自媒体平台包括：官方网站moofm.com；新浪微博@陌声人；微信公众号mmoofm。陌声人播客节目可以通过官方网站、苹果Podcast、喜马拉雅FM、荔枝FM等平台进行订阅收听。我们只是分享你我共同的生活经验并聊聊那些听说的故事！
+    episode_duration: 10
+
+
+
+  -
+    name: 以科技提升效率，用效率改变生活。
+    website: http://checked.fm/
+    rss: http://checked.fm/feed/podcast
+    description: 以科技提升效率，用效率改变生活。
+    episode_duration: 90
+
+  -
+    name: 四叶草瑶
+    website: https://www.lizhi.fm/user/54642
+    rss: http://nj.lizhi.fm/rss/22743.xml
+    description: 遇见更美好的自己
+    episode_duration: 20
+
+  -
+    name: 禁书解读
+    website: https://www.rfa.org/mandarin/zhuanlan/wenyitiandi-cite
+    rss: https://www.rfa.org/mandarin/zhuanlan/wenyitiandi-cite/podcast.xml
+    description: 兼听则明，偏信则暗。本栏目为您介绍、解读、评价那些在中国被禁的书籍。
+    episode_duration: 5
+
+
+  -
+    name: 大内密谈
+    website: http://www.lizhi.fm/user/198
+    rss: http://rss.lizhi.fm/rss/14275.xml
+    description: midnightalks
+    episode_duration: 90
+
+
+
+投资/金融:
+  -
+    name: 疯投圈
+    website: https://crazy.capital/
+    rss: https://crazy.capital/feed
+    episode_duration: 60
+    itunes: https://itunes.apple.com/cn/podcast/id1088178402
+    description: "《疯投圈》是一档为创业者、投资人、分析师，以及任何对创业、投资有兴趣的人准备的播客节目。每期节目我们为你深度解剖创投行业新动向。"
+
+
+
+
