@@ -41,16 +41,29 @@ def category_head(category)
 end
 
 content = "<!-- Generated at #{Time.now} --> \n"
-content << config['head']
+collapsed = config['head'] + "\n  - [查看展开版本](https://github.com/fffx/awesome-chinese-podcasts/blob/master/README_OPENED.md)"
+opened = config['head'] + "\n  - [查看收拢版本](https://github.com/fffx/awesome-chinese-podcasts/blob/master/README.md)"
 
 # =begin
 podcasts_h.each do |category, podcasts|
   puts category
-  content << category_head(category)
+  opened << category_head(category)
+  collapsed << category_head(category)
   podcasts.each do |podcast|
     validate! podcast
-    content << <<~CONTENT
+    collapsed << <<~CONTENT
     <details>
+     <summary title='展开'>
+       #{link_to(podcast['name'], podcast['website'])} &nbsp;&nbsp; #{rss_icon(podcast['rss'])}
+     </summary>
+     <p>
+
+     > #{podcast['description']}
+     </p>
+    </details>
+    CONTENT
+    opened << <<~CONTENT
+    <details open=true>
      <summary title='展开'>
        #{link_to(podcast['name'], podcast['website'])} &nbsp;&nbsp; #{rss_icon(podcast['rss'])}
      </summary>
@@ -63,7 +76,8 @@ podcasts_h.each do |category, podcasts|
   end
 end
 # =end
-content << "\n"
-content << config['foot']
-File.write('README.md', content)
+
+File.write('README.md', content + collapsed + "\n" + config['foot'])
+File.write('README_OPENED.md', content + opened + "\n" + config['foot'])
+
 puts 'Done'
