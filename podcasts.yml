@@ -54,6 +54,19 @@ IPN/技术:
     episode_duration: 40
 
 
+英语学习:
+  -
+    name: All Ears English(正常语速, 推荐)
+    website: https://www.allearsenglish.com/episodes/
+    rss: http://allearsenglish.libsyn.com/rss
+    episode_duration: 20
+    description: Are you looking for a new and fun way to learn American English? Come hang out with Lindsay and Michelle from Boston and New York City and have fun while you improve your English listening skills! All Ears English is an English as a Second Language (ESL) podcast for intermediate to advanced learners around the world. Teachers Lindsay McMahon and Michelle Kaplan will show you how to use everyday vocabulary and natural idioms, expressions, and phrasal verbs and how to make small talk in American English. We will also give you special tips on American culture, customs, etiquette, and how to speak with Americans as well as conversation and commentary on study tips, life in America and Boston, how to apply to university in the US, dating, travel, food and more. You'll get TOEFL, IELTS, and TOEIC help also from The Examiner of Excellence, Jessica Beck. This podcast is for adult students who are professionals and university students as well as ESL teachers. Join Lindsay and Michelle and the All Ears English community to learn to speak American English like a native! Connection NOT Perfection!
+  -
+    name:  English as a Second Language (ESL) Podcast
+    website: http://www.eslpod.com/
+    rss: http://feeds.feedburner.com/englishasasecondlanguagepodcast
+    episode_duration: 20
+    description: A podcast for those wanting to learn or improve their English - great for any ESL or EFL learner. Visit us at http://www.eslpod.com.
 
 
 新闻消息/娱乐/生活/人文:
@@ -130,6 +143,7 @@ IPN/技术:
     website: http://www.yixi.tv/speech
     rss: http://nj.lizhi.fm/rss/29215.xml
     video: true
+    episode_duration: 30
     description: 听君一席话，胜读十年书。「一席」致力于有价值的传播，从2012年8月起，每月一期，邀请人文、科技领域有故事、有智识的嘉宾前来分享见解、体验和对未来的想象。官网：www.yixi.tv 新浪微博：@一席YiXi 微信：yixiclub
   -
     name: 非常记录
@@ -150,7 +164,7 @@ IPN/技术:
     website: https://www.lizhi.fm/user/12428189
     rss: http://www.lizhi.fm/rss/1635236.xml
     description: 一档关于一切声音的播客节目
-    episode_duration: 60  -
+    episode_duration: 60
   -
     name: 卓老板聊科技
     website: https://www.ximalaya.com/keji/335347/
@@ -204,6 +218,7 @@ IPN/技术:
     website: https://crazy.capital/
     rss: https://crazy.capital/feed
     episode_duration: 60
+    primium: true
     itunes: https://itunes.apple.com/cn/podcast/id1088178402
     description: "《疯投圈》是一档为创业者、投资人、分析师，以及任何对创业、投资有兴趣的人准备的播客节目。每期节目我们为你深度解剖创投行业新动向。"
 

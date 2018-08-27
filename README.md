@@ -1,13 +1,35 @@
-<!-- Generated at 2018-08-27 20:52:17 +0800 --> 
+<!-- Generated at 2018-08-27 21:42:07 +0800 --> 
 # 一些不错的中文播客 :smile:
   - **[播客软件](#播客软件)**
   - [**英语播客**](https://github.com/rShetty/awesome-podcasts)
 
   - [查看展开版本](https://github.com/fffx/awesome-chinese-podcasts/blob/master/README_OPENED.md)
-## [IPN](https://ipn.li) &nbsp;&nbsp; <a href="https://twitter.com/ipnpodcast" title="IPN on Twitter"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Twitter_logo_initial.svg" width="20" height="20"> </a>
+ ## IPN/技术 
 <details>
  <summary title='展开'>
-   <a href="https://kernelpanic.fm/" title="https://kernelpanic.fm/">内核恐慌kernelpanic((已从IPN独立出来)</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="http://teahour.fm/" title="http://teahour.fm/">Teahour</a> <img title="时长分钟"
+         src="https://img.shields.io/badge/120m-免费-brightgreen.svg">
+     &nbsp;&nbsp; <a href='http://teahour.fm/feed.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+ </summary>
+ <p>
+
+ > Teahour.fm 由Terry，玎玎, Daniel, Kevin 和滚滚主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。
+ </p>
+</details>
+<details>
+ <summary title='展开'>
+   <a href="http://www.uxcoffee.com/" title="http://www.uxcoffee.com/">UX Coffee 设计咖</a> <img title="时长分钟"
+         src="https://img.shields.io/badge/40m-免费-brightgreen.svg">
+     &nbsp;&nbsp; <a href='https://rss.simplecast.com/podcasts/1897/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+ </summary>
+ <p>
+
+ > 聊聊设计和用户体验
+ </p>
+</details>
+<details>
+ <summary title='展开'>
+   <a href="https://kernelpanic.fm/" title="https://kernelpanic.fm/">内核恐慌kernelpanic</a> <img title="时长分钟"
          src="https://img.shields.io/badge/90m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='https://kernelpanic.fm/feed' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -18,7 +40,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="https://bowuzhi.fm" title="https://bowuzhi.fm">博物志MUSEELOGUE(已从IPN独立出来)</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="https://bowuzhi.fm" title="https://bowuzhi.fm">博物志MUSEELOGUE</a> <img title="时长分钟"
          src="https://img.shields.io/badge/60m-有会员-yellow.svg">
      &nbsp;&nbsp; <a href='https://museelogue.fireside.fm/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -29,7 +51,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="https://taiyilaile.com" title="https://taiyilaile.com">太医来了</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="https://taiyilaile.com" title="https://taiyilaile.com">太医来了</a> <img title="时长分钟"
          src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://taiyilaile.com/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -40,7 +62,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="http://fashionmonster.fm/" title="http://fashionmonster.fm/">时尚怪物</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="http://fashionmonster.fm/" title="http://fashionmonster.fm/">时尚怪物</a> <img title="时长分钟"
          src="https://img.shields.io/badge/30m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://fashionmonster.fm/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -51,7 +73,18 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="http://hardimage.pro" title="http://hardimage.pro">硬影像</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="https://banlan.show/bitvoice" title="https://banlan.show/bitvoice">比特新声</a> <img title="时长分钟"
+         src="https://img.shields.io/badge/90m-免费-brightgreen.svg">
+     &nbsp;&nbsp; <a href='https://banlan.show/bitvoice.rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+ </summary>
+ <p>
+
+ > 《比特新声》是由郝海龙和有才主持的中文科技类播客。在节目中，我们会尽量避免不加解释地使用过于抽象的科技术语，力争让每一个有独立思考能力的人听懂我们的节目。我们坚信凡实验性的东西都有一种独特的魅力，好奇心是第一生产力，同时希望用不同的观点去描述我们所处的时代。
+ </p>
+</details>
+<details>
+ <summary title='展开'>
+   <a href="http://hardimage.pro" title="http://hardimage.pro">硬影像</a> <img title="时长分钟"
          src="https://img.shields.io/badge/50m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://hardimage.pro/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -61,10 +94,34 @@
  </p>
 </details>
 
+ ## 英语学习 
+<details>
+ <summary title='展开'>
+   <a href="https://www.allearsenglish.com/episodes/" title="https://www.allearsenglish.com/episodes/">All Ears English(正常语速, 推荐)</a> <img title="时长分钟"
+         src="https://img.shields.io/badge/20m-免费-brightgreen.svg">
+     &nbsp;&nbsp; <a href='http://allearsenglish.libsyn.com/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+ </summary>
+ <p>
+
+ > Are you looking for a new and fun way to learn American English? Come hang out with Lindsay and Michelle from Boston and New York City and have fun while you improve your English listening skills! All Ears English is an English as a Second Language (ESL) podcast for intermediate to advanced learners around the world. Teachers Lindsay McMahon and Michelle Kaplan will show you how to use everyday vocabulary and natural idioms, expressions, and phrasal verbs and how to make small talk in American English. We will also give you special tips on American culture, customs, etiquette, and how to speak with Americans as well as conversation and commentary on study tips, life in America and Boston, how to apply to university in the US, dating, travel, food and more. You'll get TOEFL, IELTS, and TOEIC help also from The Examiner of Excellence, Jessica Beck. This podcast is for adult students who are professionals and university students as well as ESL teachers. Join Lindsay and Michelle and the All Ears English community to learn to speak American English like a native! Connection NOT Perfection!
+ </p>
+</details>
+<details>
+ <summary title='展开'>
+   <a href="http://www.eslpod.com/" title="http://www.eslpod.com/">English as a Second Language (ESL) Podcast</a> <img title="时长分钟"
+         src="https://img.shields.io/badge/20m-免费-brightgreen.svg">
+     &nbsp;&nbsp; <a href='http://feeds.feedburner.com/englishasasecondlanguagepodcast' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+ </summary>
+ <p>
+
+ > A podcast for those wanting to learn or improve their English - great for any ESL or EFL learner. Visit us at http://www.eslpod.com.
+ </p>
+</details>
+
  ## 新闻消息/娱乐/生活/人文 
 <details>
  <summary title='展开'>
-   <a href="http://cn.rfi.fr/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81" title="http://cn.rfi.fr/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81">RFI - 法国报纸摘要</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="http://cn.rfi.fr/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81" title="http://cn.rfi.fr/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81">RFI - 法国报纸摘要</a> <img title="时长分钟"
          src="https://img.shields.io/badge/未知m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://www1.rfi.fr/radiofr/PodCast/Podcast_CN_REVUE.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -75,29 +132,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="http://trad.cn.rfi.fr/%E4%B8%AD%E5%9C%8B/20180819-2018%E5%B9%B48%E6%9C%8819%E6%97%A5%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%92%AD%E9%9F%B3%E4%B8%80%E5%B0%8F%E6%99%82%E5%8C%97%E4%BA%AC%E6%99%82%E9%96%931900%E9%BB%9E-2000%E9%BB%9E" title="http://trad.cn.rfi.fr/%E4%B8%AD%E5%9C%8B/20180819-2018%E5%B9%B48%E6%9C%8819%E6%97%A5%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%92%AD%E9%9F%B3%E4%B8%80%E5%B0%8F%E6%99%82%E5%8C%97%E4%BA%AC%E6%99%82%E9%96%931900%E9%BB%9E-2000%E9%BB%9E">RFI - 第二次播音</a> <img title="每集平均时长, 有会员/免费/付费"
-         src="https://img.shields.io/badge/未知m-免费-brightgreen.svg">
-     &nbsp;&nbsp; <a href='http://www1.rfi.fr/radiofr/PodCast/Podcast_chinese_news_11h00.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
- </summary>
- <p>
-
- > RFI - 第二次播音（新闻）19：00 - 19：15（北京时间 ）
- </p>
-</details>
-<details>
- <summary title='展开'>
-   <a href="http://gbcode.rthk.hk/TuniS/podcast.rthk.hk/podcast/item.php?pid=837" title="http://gbcode.rthk.hk/TuniS/podcast.rthk.hk/podcast/item.php?pid=837">报章摘要</a> <img title="每集平均时长, 有会员/免费/付费"
-         src="https://img.shields.io/badge/15m-免费-brightgreen.svg">
-     &nbsp;&nbsp; <a href='http://gbcode.rthk.hk/TuniS/podcast.rthk.hk/podcast/radio1_newspaper.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
- </summary>
- <p>
-
- > 搜罗本港各大报章，阅览最新消息及社评摘要，听众足不出户，能知天下事！
- </p>
-</details>
-<details>
- <summary title='展开'>
-   <a href="http://since1989.org" title="http://since1989.org">新闻酸菜管</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="http://since1989.org" title="http://since1989.org">新闻酸菜管</a> <img title="时长分钟"
          src="https://img.shields.io/badge/60m-有会员-yellow.svg">
      &nbsp;&nbsp; <a href='http://since1989.org/feed/wasai' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -108,7 +143,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="http://podcast.talkonly.net/" title="http://podcast.talkonly.net/">講台 – Talkonly</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="http://podcast.talkonly.net/" title="http://podcast.talkonly.net/">講台 – Talkonly</a> <img title="时长分钟"
          src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://feeds.feedburner.com/talkonlypc' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -119,7 +154,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="https://www.ximalaya.com/zhubo/3239336/" title="https://www.ximalaya.com/zhubo/3239336/">随口说美国</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="https://www.ximalaya.com/zhubo/3239336/" title="https://www.ximalaya.com/zhubo/3239336/">随口说美国</a> <img title="时长分钟"
          src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://www.ximalaya.com/album/246092.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -132,7 +167,7 @@
  ## 影视 
 <details>
  <summary title='展开'>
-   <a href="http://www.lizhi.fm/user/144078" title="http://www.lizhi.fm/user/144078">404观影小组</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="http://www.lizhi.fm/user/144078" title="http://www.lizhi.fm/user/144078">404观影小组</a> <img title="时长分钟"
          src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://www.lizhi.fm/rss/1939121.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -143,7 +178,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="https://www.ximalaya.com/yingshi/3558668/" title="https://www.ximalaya.com/yingshi/3558668/">黑水公园</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="https://www.ximalaya.com/yingshi/3558668/" title="https://www.ximalaya.com/yingshi/3558668/">黑水公园</a> <img title="时长分钟"
          src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://www.ximalaya.com/album/3558668.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -153,11 +188,11 @@
  </p>
 </details>
 
- ## 科学/科普/历史/人文 
+ ## 科学/科普/历史/生活 
 <details>
  <summary title='展开'>
-   <a href="http://www.yixi.tv/speech" title="http://www.yixi.tv/speech">一席</a> <img title="每集平均时长, 有会员/免费/付费"
-         src="https://img.shields.io/badge/未知m-免费-brightgreen.svg">
+   <a href="http://www.yixi.tv/speech" title="http://www.yixi.tv/speech">一席</a> <img title="时长分钟"
+         src="https://img.shields.io/badge/30m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://nj.lizhi.fm/rss/29215.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>
@@ -167,7 +202,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="http://checked.fm/" title="http://checked.fm/">以科技提升效率，用效率改变生活。</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="http://checked.fm/" title="http://checked.fm/">以科技提升效率，用效率改变生活。</a> <img title="时长分钟"
          src="https://img.shields.io/badge/90m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://checked.fm/feed/podcast' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -178,7 +213,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="https://www.ximalaya.com/keji/335347/" title="https://www.ximalaya.com/keji/335347/">卓老板聊科技</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="https://www.ximalaya.com/keji/335347/" title="https://www.ximalaya.com/keji/335347/">卓老板聊科技</a> <img title="时长分钟"
          src="https://img.shields.io/badge/10m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://www.ximalaya.com/album/335347.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -189,7 +224,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="https://soundcloud.com/boxun" title="https://soundcloud.com/boxun">博讯台</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="https://soundcloud.com/boxun" title="https://soundcloud.com/boxun">博讯台</a> <img title="时长分钟"
          src="https://img.shields.io/badge/30m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://feeds.soundcloud.com/users/soundcloud:users:79460826/sounds.rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -200,7 +235,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="https://www.ximalaya.com/keji/246622/" title="https://www.ximalaya.com/keji/246622/">原来是这样/旭岽叨科学</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="https://www.ximalaya.com/keji/246622/" title="https://www.ximalaya.com/keji/246622/">原来是这样/旭岽叨科学</a> <img title="时长分钟"
          src="https://img.shields.io/badge/40m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://nj.lizhi.fm/rss/318375.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -211,7 +246,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="https://www.lizhi.fm/user/54642" title="https://www.lizhi.fm/user/54642">四叶草瑶</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="https://www.lizhi.fm/user/54642" title="https://www.lizhi.fm/user/54642">四叶草瑶</a> <img title="时长分钟"
          src="https://img.shields.io/badge/20m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://nj.lizhi.fm/rss/22743.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -222,8 +257,8 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="https://www.lizhi.fm/user/12428189" title="https://www.lizhi.fm/user/12428189">声波飞行员 | sonic pilots</a> <img title="每集平均时长, 有会员/免费/付费"
-         src="https://img.shields.io/badge/60  -m-免费-brightgreen.svg">
+   <a href="https://www.lizhi.fm/user/12428189" title="https://www.lizhi.fm/user/12428189">声波飞行员 | sonic pilots</a> <img title="时长分钟"
+         src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://www.lizhi.fm/rss/1635236.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>
@@ -233,7 +268,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="http://www.lizhi.fm/user/198" title="http://www.lizhi.fm/user/198">大内密谈</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="http://www.lizhi.fm/user/198" title="http://www.lizhi.fm/user/198">大内密谈</a> <img title="时长分钟"
          src="https://img.shields.io/badge/90m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://rss.lizhi.fm/rss/14275.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -244,7 +279,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="https://www.ximalaya.com/keji/8083273/" title="https://www.ximalaya.com/keji/8083273/">天文原来是这样</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="https://www.ximalaya.com/keji/8083273/" title="https://www.ximalaya.com/keji/8083273/">天文原来是这样</a> <img title="时长分钟"
          src="https://img.shields.io/badge/30m-付费-red.svg">
      &nbsp;&nbsp; <a href='' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -255,7 +290,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="http://www.lizhi.fm/user/103258" title="http://www.lizhi.fm/user/103258">汤小电台</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="http://www.lizhi.fm/user/103258" title="http://www.lizhi.fm/user/103258">汤小电台</a> <img title="时长分钟"
          src="https://img.shields.io/badge/50m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://nj.lizhi.fm/rss/64772.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -266,7 +301,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="https://www.rfa.org/mandarin/zhuanlan/wenyitiandi-cite" title="https://www.rfa.org/mandarin/zhuanlan/wenyitiandi-cite">禁书解读</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="https://www.rfa.org/mandarin/zhuanlan/wenyitiandi-cite" title="https://www.rfa.org/mandarin/zhuanlan/wenyitiandi-cite">禁书解读</a> <img title="时长分钟"
          src="https://img.shields.io/badge/5m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='https://www.rfa.org/mandarin/zhuanlan/wenyitiandi-cite/podcast.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -277,7 +312,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="http://www.moofm.com/" title="http://www.moofm.com/">陌声人</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="http://www.moofm.com/" title="http://www.moofm.com/">陌声人</a> <img title="时长分钟"
          src="https://img.shields.io/badge/10m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://www.ximalaya.com/album/238119.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -288,7 +323,7 @@
 </details>
 <details>
  <summary title='展开'>
-   <a href="https://itunes.apple.com/cn/podcast/fei-chang-ji-lu/id808485910" title="https://itunes.apple.com/cn/podcast/fei-chang-ji-lu/id808485910">非常记录</a> <img title="每集平均时长, 有会员/免费/付费"
+   <a href="https://itunes.apple.com/cn/podcast/fei-chang-ji-lu/id808485910" title="https://itunes.apple.com/cn/podcast/fei-chang-ji-lu/id808485910">非常记录</a> <img title="时长分钟"
          src="https://img.shields.io/badge/30m-免费-brightgreen.svg">
      &nbsp;&nbsp; <a href='http://feed.cri.cn/rss/a665f130-df8b-43a0-b740-e0a031b285f5' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
@@ -301,8 +336,8 @@
  ## 投资/金融 
 <details>
  <summary title='展开'>
-   <a href="https://crazy.capital/" title="https://crazy.capital/">疯投圈</a> <img title="每集平均时长, 有会员/免费/付费"
-         src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
+   <a href="https://crazy.capital/" title="https://crazy.capital/">疯投圈</a> <img title="时长分钟"
+         src="https://img.shields.io/badge/60m-有会员-yellow.svg">
      &nbsp;&nbsp; <a href='https://crazy.capital/feed' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>

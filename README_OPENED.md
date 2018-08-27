@@ -1,13 +1,31 @@
-<!-- Generated at 2018-08-27 20:52:17 +0800 --> 
+<!-- Generated at 2018-08-27 21:42:07 +0800 --> 
 # 一些不错的中文播客 :smile:
   - **[播客软件](#播客软件)**
   - [**英语播客**](https://github.com/rShetty/awesome-podcasts)
 
   - [查看收拢版本](https://github.com/fffx/awesome-chinese-podcasts/blob/master/README.md)
-## [IPN](https://ipn.li) &nbsp;&nbsp; <a href="https://twitter.com/ipnpodcast" title="IPN on Twitter"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Twitter_logo_initial.svg" width="20" height="20"> </a>
+ ## IPN/技术 
 <details open=true>
  <summary title='展开'>
-   <a href="https://kernelpanic.fm/" title="https://kernelpanic.fm/">内核恐慌kernelpanic((已从IPN独立出来)</a> &nbsp;&nbsp; <a href='https://kernelpanic.fm/feed' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+   <a href="http://teahour.fm/" title="http://teahour.fm/">Teahour</a> &nbsp;&nbsp; <a href='http://teahour.fm/feed.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+ </summary>
+ <p>
+
+ > Teahour.fm 由Terry，玎玎, Daniel, Kevin 和滚滚主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。
+ </p>
+</details>
+<details open=true>
+ <summary title='展开'>
+   <a href="http://www.uxcoffee.com/" title="http://www.uxcoffee.com/">UX Coffee 设计咖</a> &nbsp;&nbsp; <a href='https://rss.simplecast.com/podcasts/1897/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+ </summary>
+ <p>
+
+ > 聊聊设计和用户体验
+ </p>
+</details>
+<details open=true>
+ <summary title='展开'>
+   <a href="https://kernelpanic.fm/" title="https://kernelpanic.fm/">内核恐慌kernelpanic</a> &nbsp;&nbsp; <a href='https://kernelpanic.fm/feed' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>
 
@@ -16,7 +34,7 @@
 </details>
 <details open=true>
  <summary title='展开'>
-   <a href="https://bowuzhi.fm" title="https://bowuzhi.fm">博物志MUSEELOGUE(已从IPN独立出来)</a> &nbsp;&nbsp; <a href='https://museelogue.fireside.fm/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+   <a href="https://bowuzhi.fm" title="https://bowuzhi.fm">博物志MUSEELOGUE</a> &nbsp;&nbsp; <a href='https://museelogue.fireside.fm/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>
 
@@ -43,11 +61,40 @@
 </details>
 <details open=true>
  <summary title='展开'>
+   <a href="https://banlan.show/bitvoice" title="https://banlan.show/bitvoice">比特新声</a> &nbsp;&nbsp; <a href='https://banlan.show/bitvoice.rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+ </summary>
+ <p>
+
+ > 《比特新声》是由郝海龙和有才主持的中文科技类播客。在节目中，我们会尽量避免不加解释地使用过于抽象的科技术语，力争让每一个有独立思考能力的人听懂我们的节目。我们坚信凡实验性的东西都有一种独特的魅力，好奇心是第一生产力，同时希望用不同的观点去描述我们所处的时代。
+ </p>
+</details>
+<details open=true>
+ <summary title='展开'>
    <a href="http://hardimage.pro" title="http://hardimage.pro">硬影像</a> &nbsp;&nbsp; <a href='http://hardimage.pro/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>
 
  > 《硬影像》由 IPN 出品，由罗登主持，是一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。
+ </p>
+</details>
+
+ ## 英语学习 
+<details open=true>
+ <summary title='展开'>
+   <a href="https://www.allearsenglish.com/episodes/" title="https://www.allearsenglish.com/episodes/">All Ears English(正常语速, 推荐)</a> &nbsp;&nbsp; <a href='http://allearsenglish.libsyn.com/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+ </summary>
+ <p>
+
+ > Are you looking for a new and fun way to learn American English? Come hang out with Lindsay and Michelle from Boston and New York City and have fun while you improve your English listening skills! All Ears English is an English as a Second Language (ESL) podcast for intermediate to advanced learners around the world. Teachers Lindsay McMahon and Michelle Kaplan will show you how to use everyday vocabulary and natural idioms, expressions, and phrasal verbs and how to make small talk in American English. We will also give you special tips on American culture, customs, etiquette, and how to speak with Americans as well as conversation and commentary on study tips, life in America and Boston, how to apply to university in the US, dating, travel, food and more. You'll get TOEFL, IELTS, and TOEIC help also from The Examiner of Excellence, Jessica Beck. This podcast is for adult students who are professionals and university students as well as ESL teachers. Join Lindsay and Michelle and the All Ears English community to learn to speak American English like a native! Connection NOT Perfection!
+ </p>
+</details>
+<details open=true>
+ <summary title='展开'>
+   <a href="http://www.eslpod.com/" title="http://www.eslpod.com/">English as a Second Language (ESL) Podcast</a> &nbsp;&nbsp; <a href='http://feeds.feedburner.com/englishasasecondlanguagepodcast' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+ </summary>
+ <p>
+
+ > A podcast for those wanting to learn or improve their English - great for any ESL or EFL learner. Visit us at http://www.eslpod.com.
  </p>
 </details>
 
@@ -59,24 +106,6 @@
  <p>
 
  > 法国每份报纸，独立有别，各家报纸，各家评说。“法国报纸摘要”首选对中国事务的评论与分析，以飨听众
- </p>
-</details>
-<details open=true>
- <summary title='展开'>
-   <a href="http://trad.cn.rfi.fr/%E4%B8%AD%E5%9C%8B/20180819-2018%E5%B9%B48%E6%9C%8819%E6%97%A5%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%92%AD%E9%9F%B3%E4%B8%80%E5%B0%8F%E6%99%82%E5%8C%97%E4%BA%AC%E6%99%82%E9%96%931900%E9%BB%9E-2000%E9%BB%9E" title="http://trad.cn.rfi.fr/%E4%B8%AD%E5%9C%8B/20180819-2018%E5%B9%B48%E6%9C%8819%E6%97%A5%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%92%AD%E9%9F%B3%E4%B8%80%E5%B0%8F%E6%99%82%E5%8C%97%E4%BA%AC%E6%99%82%E9%96%931900%E9%BB%9E-2000%E9%BB%9E">RFI - 第二次播音</a> &nbsp;&nbsp; <a href='http://www1.rfi.fr/radiofr/PodCast/Podcast_chinese_news_11h00.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
- </summary>
- <p>
-
- > RFI - 第二次播音（新闻）19：00 - 19：15（北京时间 ）
- </p>
-</details>
-<details open=true>
- <summary title='展开'>
-   <a href="http://gbcode.rthk.hk/TuniS/podcast.rthk.hk/podcast/item.php?pid=837" title="http://gbcode.rthk.hk/TuniS/podcast.rthk.hk/podcast/item.php?pid=837">报章摘要</a> &nbsp;&nbsp; <a href='http://gbcode.rthk.hk/TuniS/podcast.rthk.hk/podcast/radio1_newspaper.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
- </summary>
- <p>
-
- > 搜罗本港各大报章，阅览最新消息及社评摘要，听众足不出户，能知天下事！
  </p>
 </details>
 <details open=true>
@@ -127,7 +156,7 @@
  </p>
 </details>
 
- ## 科学/科普/历史/人文 
+ ## 科学/科普/历史/生活 
 <details open=true>
  <summary title='展开'>
    <a href="http://www.yixi.tv/speech" title="http://www.yixi.tv/speech">一席</a> &nbsp;&nbsp; <a href='http://nj.lizhi.fm/rss/29215.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
