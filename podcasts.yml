@@ -1,4 +1,4 @@
-IPN:
+IPN/技术:
   -
     name: 太医来了
     website: https://taiyilaile.com
@@ -8,20 +8,19 @@ IPN:
     episode_duration: 60
     featured: true
   -
-    name: 博物志MUSEELOGUE(已从IPN独立出来)
+    name: 博物志MUSEELOGUE
     website: https://bowuzhi.fm
     rss: https://museelogue.fireside.fm/rss
     description: 博物馆主题的娱乐节目
     episode_duration: 60
     primium: true
   -
-    name: 内核恐慌kernelpanic((已从IPN独立出来)
+    name: 内核恐慌kernelpanic
     description: 《内核恐慌》是一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
     website: https://kernelpanic.fm/
     rss: https://kernelpanic.fm/feed
     itunes: https://itunes.apple.com/cn/podcast/id928916244
     episode_duration: 90
-
   -
     name: 硬影像
     website: http://hardimage.pro
@@ -35,6 +34,26 @@ IPN:
     rss: http://fashionmonster.fm/rss
     description: 《时尚怪物》是一档不只谈时尚的播客节目，王汉洋主持，IPN 出品。
     episode_duration: 30
+  -
+    name: 比特新声
+    website: https://banlan.show/bitvoice
+    description: 《比特新声》是由郝海龙和有才主持的中文科技类播客。在节目中，我们会尽量避免不加解释地使用过于抽象的科技术语，力争让每一个有独立思考能力的人听懂我们的节目。我们坚信凡实验性的东西都有一种独特的魅力，好奇心是第一生产力，同时希望用不同的观点去描述我们所处的时代。
+    rss: https://banlan.show/bitvoice.rss
+    episode_duration: 90
+  -
+    name: Teahour
+    website: http://teahour.fm/
+    rss: http://teahour.fm/feed.xml
+    description: Teahour.fm 由Terry，玎玎, Daniel, Kevin 和滚滚主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。
+    episode_duration: 120
+  -
+    name: UX Coffee 设计咖
+    website: http://www.uxcoffee.com/
+    rss: https://rss.simplecast.com/podcasts/1897/rss
+    description: 聊聊设计和用户体验
+    episode_duration: 40
+
+
 
 
 新闻消息/娱乐/生活/人文:
@@ -50,18 +69,7 @@ IPN:
     website: http://cn.rfi.fr/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81
     rss: http://www1.rfi.fr/radiofr/PodCast/Podcast_CN_REVUE.xml
     description: 法国每份报纸，独立有别，各家报纸，各家评说。“法国报纸摘要”首选对中国事务的评论与分析，以飨听众
-  -
-    name: RFI - 第二次播音
-    rss: http://www1.rfi.fr/radiofr/PodCast/Podcast_chinese_news_11h00.xml
-    description: RFI - 第二次播音（新闻）19：00 - 19：15（北京时间 ）
-    website: http://trad.cn.rfi.fr/%E4%B8%AD%E5%9C%8B/20180819-2018%E5%B9%B48%E6%9C%8819%E6%97%A5%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%92%AD%E9%9F%B3%E4%B8%80%E5%B0%8F%E6%99%82%E5%8C%97%E4%BA%AC%E6%99%82%E9%96%931900%E9%BB%9E-2000%E9%BB%9E
 
-  -
-    name: 报章摘要
-    website: http://gbcode.rthk.hk/TuniS/podcast.rthk.hk/podcast/item.php?pid=837
-    rss: http://gbcode.rthk.hk/TuniS/podcast.rthk.hk/podcast/radio1_newspaper.xml
-    description: 搜罗本港各大报章，阅览最新消息及社评摘要，听众足不出户，能知天下事！
-    episode_duration: 15
   -
     name: 講台 – Talkonly
     website: http://podcast.talkonly.net/
@@ -91,7 +99,7 @@ IPN:
     episode_duration: 60
 
 
-科学/科普/历史/人文:
+科学/科普/历史/生活:
   -
     name: 原来是这样/旭岽叨科学
     website: https://www.ximalaya.com/keji/246622/
