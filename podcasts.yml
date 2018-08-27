@@ -15,9 +15,10 @@ IPN/技术:
     episode_duration: 60
     primium: true
   -
-    name: 内核恐慌kernelpanic
+    name: 内核恐慌 KernelPanic
     description: 《内核恐慌》是一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
     website: https://kernelpanic.fm/
+    featured: true
     rss: https://kernelpanic.fm/feed
     itunes: https://itunes.apple.com/cn/podcast/id928916244
     episode_duration: 90
@@ -45,6 +46,7 @@ IPN/技术:
     website: http://teahour.fm/
     rss: http://teahour.fm/feed.xml
     description: Teahour.fm 由Terry，玎玎, Daniel, Kevin 和滚滚主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。
+    featured: true
     episode_duration: 120
   -
     name: UX Coffee 设计咖
@@ -60,6 +62,7 @@ IPN/技术:
     website: https://www.allearsenglish.com/episodes/
     rss: http://allearsenglish.libsyn.com/rss
     episode_duration: 20
+    featured: true
     description: Are you looking for a new and fun way to learn American English? Come hang out with Lindsay and Michelle from Boston and New York City and have fun while you improve your English listening skills! All Ears English is an English as a Second Language (ESL) podcast for intermediate to advanced learners around the world. Teachers Lindsay McMahon and Michelle Kaplan will show you how to use everyday vocabulary and natural idioms, expressions, and phrasal verbs and how to make small talk in American English. We will also give you special tips on American culture, customs, etiquette, and how to speak with Americans as well as conversation and commentary on study tips, life in America and Boston, how to apply to university in the US, dating, travel, food and more. You'll get TOEFL, IELTS, and TOEIC help also from The Examiner of Excellence, Jessica Beck. This podcast is for adult students who are professionals and university students as well as ESL teachers. Join Lindsay and Michelle and the All Ears English community to learn to speak American English like a native! Connection NOT Perfection!
   -
     name:  English as a Second Language (ESL) Podcast
@@ -118,6 +121,7 @@ IPN/技术:
     website: https://www.ximalaya.com/keji/246622/
     rss: http://nj.lizhi.fm/rss/318375.xml
     episode_duration: 40
+    featured: true
     description: "愿好奇心长存！
 不仅仅是冷知识，
 更是串联各科知识的经纬线！
@@ -127,6 +131,7 @@ IPN/技术:
     website: https://www.ximalaya.com/keji/8083273/
     episode_duration: 30
     primium_only: true
+    featured: true
     description: "听主播旭岽和水兄，两位天文老司机，用一年的时间陪你一起遨游太空，告诉你那些你不曾明白的天文原理。
 天文学不是高不可攀的学术巅峰，天文学是只要你喜欢，它就能成为你终身的兴趣爱好，如果你愿意更进一步，这个节目让你从业余成为专家级达人。希望你可以惊喜的发现：
 天文，原来是这样！
@@ -218,6 +223,7 @@ IPN/技术:
     website: https://crazy.capital/
     rss: https://crazy.capital/feed
     episode_duration: 60
+    featured: true
     primium: true
     itunes: https://itunes.apple.com/cn/podcast/id1088178402
     description: "《疯投圈》是一档为创业者、投资人、分析师，以及任何对创业、投资有兴趣的人准备的播客节目。每期节目我们为你深度解剖创投行业新动向。"

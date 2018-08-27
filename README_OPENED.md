@@ -1,4 +1,4 @@
-<!-- Generated at 2018-08-27 21:42:07 +0800 --> 
+<!-- Generated at 2018-08-27 21:59:17 +0800 --> 
 # 一些不错的中文播客 :smile:
   - **[播客软件](#播客软件)**
   - [**英语播客**](https://github.com/rShetty/awesome-podcasts)
@@ -7,7 +7,7 @@
  ## IPN/技术 
 <details open=true>
  <summary title='展开'>
-   <a href="http://teahour.fm/" title="http://teahour.fm/">Teahour</a> &nbsp;&nbsp; <a href='http://teahour.fm/feed.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+   <a href="http://teahour.fm/" title="http://teahour.fm/"><b>Teahour 👍</b></a> &nbsp;&nbsp; <a href='http://teahour.fm/feed.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>
 
@@ -25,7 +25,7 @@
 </details>
 <details open=true>
  <summary title='展开'>
-   <a href="https://kernelpanic.fm/" title="https://kernelpanic.fm/">内核恐慌kernelpanic</a> &nbsp;&nbsp; <a href='https://kernelpanic.fm/feed' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+   <a href="https://kernelpanic.fm/" title="https://kernelpanic.fm/"><b>内核恐慌 KernelPanic 👍</b></a> &nbsp;&nbsp; <a href='https://kernelpanic.fm/feed' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>
 
@@ -43,7 +43,7 @@
 </details>
 <details open=true>
  <summary title='展开'>
-   <a href="https://taiyilaile.com" title="https://taiyilaile.com">太医来了</a> &nbsp;&nbsp; <a href='http://taiyilaile.com/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+   <a href="https://taiyilaile.com" title="https://taiyilaile.com"><b>太医来了 👍</b></a> &nbsp;&nbsp; <a href='http://taiyilaile.com/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>
 
@@ -81,7 +81,7 @@
  ## 英语学习 
 <details open=true>
  <summary title='展开'>
-   <a href="https://www.allearsenglish.com/episodes/" title="https://www.allearsenglish.com/episodes/">All Ears English(正常语速, 推荐)</a> &nbsp;&nbsp; <a href='http://allearsenglish.libsyn.com/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+   <a href="https://www.allearsenglish.com/episodes/" title="https://www.allearsenglish.com/episodes/"><b>All Ears English(正常语速, 推荐) 👍</b></a> &nbsp;&nbsp; <a href='http://allearsenglish.libsyn.com/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>
 
@@ -195,7 +195,7 @@
 </details>
 <details open=true>
  <summary title='展开'>
-   <a href="https://www.ximalaya.com/keji/246622/" title="https://www.ximalaya.com/keji/246622/">原来是这样/旭岽叨科学</a> &nbsp;&nbsp; <a href='http://nj.lizhi.fm/rss/318375.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+   <a href="https://www.ximalaya.com/keji/246622/" title="https://www.ximalaya.com/keji/246622/"><b>原来是这样/旭岽叨科学 👍</b></a> &nbsp;&nbsp; <a href='http://nj.lizhi.fm/rss/318375.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>
 
@@ -231,7 +231,7 @@
 </details>
 <details open=true>
  <summary title='展开'>
-   <a href="https://www.ximalaya.com/keji/8083273/" title="https://www.ximalaya.com/keji/8083273/">天文原来是这样</a> &nbsp;&nbsp; <a href='' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+   <a href="https://www.ximalaya.com/keji/8083273/" title="https://www.ximalaya.com/keji/8083273/"><b>天文原来是这样 👍</b></a> &nbsp;&nbsp; <a href='' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>
 
@@ -278,7 +278,7 @@
  ## 投资/金融 
 <details open=true>
  <summary title='展开'>
-   <a href="https://crazy.capital/" title="https://crazy.capital/">疯投圈</a> &nbsp;&nbsp; <a href='https://crazy.capital/feed' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+   <a href="https://crazy.capital/" title="https://crazy.capital/"><b>疯投圈 👍</b></a> &nbsp;&nbsp; <a href='https://crazy.capital/feed' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
  </summary>
  <p>
 

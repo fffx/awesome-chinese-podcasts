@@ -60,10 +60,11 @@ podcasts_h.each do |category, podcasts|
   collapsed << category_head(category)
   podcasts.sort_by!{|p| p['name'] }.each do |podcast|
     validate! podcast
+    name = podcast['featured'] ? "<b>#{podcast['name']} 👍</b>" : podcast['name']
     collapsed << <<~CONTENT
     <details>
      <summary title='展开'>
-       #{link_to(podcast['name'], podcast['website'])} #{duration_badge(podcast)} &nbsp;&nbsp; #{rss_icon(podcast['rss'])}
+       #{link_to(name, podcast['website'])} #{duration_badge(podcast)} &nbsp;&nbsp; #{rss_icon(podcast['rss'])}
      </summary>
      <p>
 
@@ -74,7 +75,7 @@ podcasts_h.each do |category, podcasts|
     opened << <<~CONTENT
     <details open=true>
      <summary title='展开'>
-       #{link_to(podcast['name'], podcast['website'])} &nbsp;&nbsp; #{rss_icon(podcast['rss'])}
+       #{link_to(name, podcast['website'])} &nbsp;&nbsp; #{rss_icon(podcast['rss'])}
      </summary>
      <p>
 
