@@ -2,14 +2,22 @@
 require 'yaml'
 podcasts_h = YAML.load_file('podcasts.yml')
 
-
 def config
   @config ||= YAML.load_file('config.yml')
 end
-# https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-def collapsible_description(description)
-  # return description if description.size < 30
 
+def duration_badge(podcast)
+ duration = podcast['episode_duration'] || '未知'
+ status, color = if podcast['primium']
+   ['有会员', 'yellow']
+  elsif podcast['primium_only']
+    ['付费', 'red']
+  else
+    ['免费', 'brightgreen']
+  end
+ %Q|<img title="时长分钟"
+         src="https://img.shields.io/badge/#{duration}m-#{status}-#{color}.svg">
+    |
 end
 
 def validate!(podcast)
@@ -45,16 +53,17 @@ collapsed = config['head'] + "\n  - [查看展开版本](https://github.com/fffx
 opened = config['head'] + "\n  - [查看收拢版本](https://github.com/fffx/awesome-chinese-podcasts/blob/master/README.md)"
 
 # =begin
+# https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
 podcasts_h.each do |category, podcasts|
   puts category
   opened << category_head(category)
   collapsed << category_head(category)
-  podcasts.each do |podcast|
+  podcasts.sort_by!{|p| p['name'] }.each do |podcast|
     validate! podcast
     collapsed << <<~CONTENT
     <details>
      <summary title='展开'>
-       #{link_to(podcast['name'], podcast['website'])} &nbsp;&nbsp; #{rss_icon(podcast['rss'])}
+       #{link_to(podcast['name'], podcast['website'])} #{duration_badge(podcast)} &nbsp;&nbsp; #{rss_icon(podcast['rss'])}
      </summary>
      <p>
 

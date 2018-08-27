@@ -6,6 +6,7 @@ IPN:
     rss: http://taiyilaile.com/rss
     itunes: https://itunes.apple.com/podcast/id921829208
     episode_duration: 60
+    featured: true
   -
     name: 博物志MUSEELOGUE(已从IPN独立出来)
     website: https://bowuzhi.fm
