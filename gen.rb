@@ -56,7 +56,7 @@ opened = config['head'] + "\n  - [查看收拢版本](https://github.com/fffx/aw
 # https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
 podcast_proc = Proc.new do |podcast, name, open=false|
   <<~CONTENT
-  <details open="#{open}" >
+  <details #{"open='true'" if open}>
   <summary title='展开'>
     #{link_to(name, podcast['website'])} #{duration_badge(podcast)} &nbsp;&nbsp; #{rss_icon(podcast['rss'])}
   </summary>
