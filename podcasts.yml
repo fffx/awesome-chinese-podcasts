@@ -71,6 +71,12 @@ IPN/技术:
 
 新闻消息/娱乐/生活/人文:
   -
+    name: 界面新闻
+    website: https://www.jiemian.com/
+    rss: http://www.ximalaya.com/album/2777694.xml
+    episode_duration: 6
+    description: 只服务于独立思考的人群
+  -
     name: 新闻酸菜管
     website: http://since1989.org
     rss: http://since1989.org/feed/wasai
@@ -110,6 +116,13 @@ IPN/技术:
     description: 两只北美党，真心诚意，瞎聊电影，任性发布！欢迎关注新浪微博@404电影，第一时间更新节目信息。
     rss: http://www.lizhi.fm/rss/1939121.xml
     episode_duration: 60
+  -
+    name: 奇妙电台
+    website: https://www.ximalaya.com/yingshi/8224043/
+    description: "把无意义的人生消耗在有价值的光影里。
+      正经瞎扯,专业杂谈,让我们聊一聊那些奇妙的事情吧"
+    rss: http://www.ximalaya.com/album/8224043.xml
+    episode_duration: 60m
 
 
 科学/科普/历史/生活:

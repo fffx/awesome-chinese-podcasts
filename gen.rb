@@ -39,6 +39,10 @@ def gen_icon(icon_src, width=20, height=20, link=nil, title=nil)
   end
 end
 
+def space(n=1)
+  '&nbsp;' * n
+end
+
 def link_to(title, href)
   %Q|<a href="#{href}" title="#{href}">#{title}</a>|
 end
@@ -58,7 +62,7 @@ podcast_proc = Proc.new do |podcast, name, open=false|
   <<~CONTENT
   <details #{"open='true'" if open}>
   <summary title='展开'>
-    #{link_to(name, podcast['website'])} #{duration_badge(podcast)} &nbsp;&nbsp; #{rss_icon(podcast['rss'])}
+    #{link_to(name, podcast['website'])} #{duration_badge(podcast)}
   </summary>
   <p>
 
@@ -67,7 +71,7 @@ podcast_proc = Proc.new do |podcast, name, open=false|
 
   <p>
 
-  > #{podcast['description']}
+  > #{podcast['description']} #{space} #{rss_icon(podcast['rss'])}
   </p>
   </details>
   CONTENT
