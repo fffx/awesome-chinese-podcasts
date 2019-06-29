@@ -1,4 +1,4 @@
-<!-- Generated at 2019-01-13 22:40:09 +0800 --> 
+<!-- Generated at 2019-06-29 15:28:21 +0800 --> 
 # 一些不错的中文播客 :smile:
   - **[播客软件](#播客软件)**
   - [**英语播客**](https://github.com/rShetty/awesome-podcasts)
@@ -153,22 +153,6 @@
 </details>
 
  ## 新闻消息/娱乐/生活/人文 
-<details >
-<summary title='展开'>
-  <a href="http://cn.rfi.fr/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81" title="http://cn.rfi.fr/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81">RFI - 法国报纸摘要</a> <img title="时长分钟"
-         src="https://img.shields.io/badge/未知m-免费-brightgreen.svg">
-    
-</summary>
-<p>
-
-  
-</p>
-
-<p>
-
-> 法国每份报纸，独立有别，各家报纸，各家评说。“法国报纸摘要”首选对中国事务的评论与分析，以飨听众 &nbsp; <a href='http://www1.rfi.fr/radiofr/PodCast/Podcast_CN_REVUE.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
-</p>
-</details>
 <details >
 <summary title='展开'>
   <a href="http://since1989.org" title="http://since1989.org">新闻酸菜管</a> <img title="时长分钟"
@@ -463,22 +447,6 @@
 </details>
 <details >
 <summary title='展开'>
-  <a href="https://www.rfa.org/mandarin/zhuanlan/wenyitiandi-cite" title="https://www.rfa.org/mandarin/zhuanlan/wenyitiandi-cite">禁书解读</a> <img title="时长分钟"
-         src="https://img.shields.io/badge/5m-免费-brightgreen.svg">
-    
-</summary>
-<p>
-
-  
-</p>
-
-<p>
-
-> 兼听则明，偏信则暗。本栏目为您介绍、解读、评价那些在中国被禁的书籍。 &nbsp; <a href='https://www.rfa.org/mandarin/zhuanlan/wenyitiandi-cite/podcast.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
-</p>
-</details>
-<details >
-<summary title='展开'>
   <a href="http://www.moofm.com/" title="http://www.moofm.com/">陌声人</a> <img title="时长分钟"
          src="https://img.shields.io/badge/10m-免费-brightgreen.svg">
     
@@ -585,5 +553,8 @@
     * [Winds](https://winds.getstream.io/)
     * [Player FM](https://player.fm/)
 
+## 相关链接
+  * [中文独立播客](https://typlog.com/podlist/)
+  * [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)
 ## [unlicense](http://unlicense.org/)
 <a title='By Various. See log. (Original SVG was based on File:PD-icon.png by Duesentrieb, which was based on Image:Red copyright.png by Rfl.) (Created by uploader. Based on similar symbols.) [Public domain], via Wikimedia Commons' href='https://commons.wikimedia.org/wiki/File:PD-icon.svg'><img width='128' alt='PD-icon' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png'></a>

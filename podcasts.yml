@@ -84,12 +84,6 @@ IPN/技术:
     description: 分享各领域的干货与新知！
     primium: true
   -
-    name: RFI - 法国报纸摘要
-    website: http://cn.rfi.fr/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81
-    rss: http://www1.rfi.fr/radiofr/PodCast/Podcast_CN_REVUE.xml
-    description: 法国每份报纸，独立有别，各家报纸，各家评说。“法国报纸摘要”首选对中国事务的评论与分析，以飨听众
-
-  -
     name: 講台 – Talkonly
     website: http://podcast.talkonly.net/
     rss: http://feeds.feedburner.com/talkonlypc
@@ -206,14 +200,6 @@ IPN/技术:
     rss: http://nj.lizhi.fm/rss/22743.xml
     description: 遇见更美好的自己
     episode_duration: 20
-
-  -
-    name: 禁书解读
-    website: https://www.rfa.org/mandarin/zhuanlan/wenyitiandi-cite
-    rss: https://www.rfa.org/mandarin/zhuanlan/wenyitiandi-cite/podcast.xml
-    description: 兼听则明，偏信则暗。本栏目为您介绍、解读、评价那些在中国被禁的书籍。
-    episode_duration: 5
-
 
   -
     name: 大内密谈
