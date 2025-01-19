@@ -8,21 +8,17 @@ foot: |
     * **Android**
       * [Player FM](https://play.google.com/store/apps/details?id=fm.player)  免费且没广告(暂时不支持登录验证的RSS)
       * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) 功能全, 免费版有banner广告,不影响使用
-      * [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
-      * [更多...](https://play.google.com/store/search?q=podcasts)
+      * [AntennaPod](https://github.com/AntennaPod/AntennaPod) A podcast manager for Android, opensource
     * **IOS**
-      * Itunes
-      * [Podcasts](https://itunes.apple.com/us/app/podcasts/id525463029?mt=8) 苹果自己的
+      * Podcasts (By Apple)
       * [Overcast](https://overcast.fm/) Overcast is free, supported by tasteful ads and an optional subscription to remove them.
     * **macOS**
-      * Itunes
+      * Podcasts (By Apple)
     * **Linux**
       * [Winds](https://getstream.io/winds): windows, MacOS, Linux 都有
       * [Vocal](https://vocalproject.net/)
       * [gpodder](https://gpodder.github.io/)
       * [Clementine](https://www.clementine-player.org/)
-      * [cantata](https://github.com/CDrummond/cantata)
-      * [Greg](https://github.com/manolomartinez/greg): python写的命令行工具用来下载订阅的podcasts
     * **Web**
       * [Winds](https://winds.getstream.io/)
       * [Player FM](https://player.fm/)

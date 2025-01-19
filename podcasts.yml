@@ -1,26 +1,26 @@
 IPN/技术:
   -
-    name: 太医来了
+    name: 太医来了 (已停更)
     website: https://taiyilaile.com
     description: 《太医来了》由 IPN 出品、由前骨科医生初洋和妇产科医生田吉顺主持，是中文互联网第一档医生谈话类播客。节目里没有老专家讲养生，只有几个医生聊聊医院里的事儿，顺便给大家做做科普。
     rss: http://taiyilaile.com/rss
     highlight: "[#90: 刷牙出血，你别不当回事儿](https://taiyilaile.com/90)"
     itunes: https://itunes.apple.com/podcast/id921829208
     episode_duration: 60
-    featured: true
+    featured: false
   -
-    name: 博物志MUSEELOGUE
+    name: 博物志
     website: https://bowuzhi.fm
-    rss: https://museelogue.fireside.fm/rss
+    rss: https://bowuzhi.fm/feed/audio.xml
     description: 博物馆主题的娱乐节目
     episode_duration: 60
     primium: true
   -
     name: 内核恐慌 KernelPanic
     description: 《内核恐慌》是一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。
-    website: https://kernelpanic.fm/
+    website: https://pan.icu/
     featured: true
-    rss: https://kernelpanic.fm/feed
+    rss: https://pan.icu/feed
     itunes: https://itunes.apple.com/cn/podcast/id928916244
     episode_duration: 90
   -
@@ -31,16 +31,10 @@ IPN/技术:
     itunes: https://itunes.apple.com/podcast/id982865614
     episode_duration: 50
   -
-    name: 时尚怪物
-    website: http://fashionmonster.fm/
-    rss: http://fashionmonster.fm/rss
-    description: 《时尚怪物》是一档不只谈时尚的播客节目，王汉洋主持，IPN 出品。
-    episode_duration: 30
-  -
     name: 比特新声
-    website: https://banlan.show/bitvoice
+    website: https://bitvoice.banlan.show/
     description: 《比特新声》是由郝海龙和有才主持的中文科技类播客。在节目中，我们会尽量避免不加解释地使用过于抽象的科技术语，力争让每一个有独立思考能力的人听懂我们的节目。我们坚信凡实验性的东西都有一种独特的魅力，好奇心是第一生产力，同时希望用不同的观点去描述我们所处的时代。
-    rss: https://banlan.show/bitvoice.rss
+    rss: https://bitvoice.banlan.show/feed.xml
     episode_duration: 90
   -
     name: Teahour
@@ -54,20 +48,20 @@ IPN/技术:
 
 
 英语学习:
-  -
-    name: All Ears English(正常语速, 推荐)
-    website: https://www.allearsenglish.com/episodes/
-    rss: http://allearsenglish.libsyn.com/rss
-    episode_duration: 20
-    featured: true
-    description: Are you looking for a new and fun way to learn American English? Come hang out with Lindsay and Michelle from Boston and New York City and have fun while you improve your English listening skills! All Ears English is an English as a Second Language (ESL) podcast for intermediate to advanced learners around the world. Teachers Lindsay McMahon and Michelle Kaplan will show you how to use everyday vocabulary and natural idioms, expressions, and phrasal verbs and how to make small talk in American English. We will also give you special tips on American culture, customs, etiquette, and how to speak with Americans as well as conversation and commentary on study tips, life in America and Boston, how to apply to university in the US, dating, travel, food and more. You'll get TOEFL, IELTS, and TOEIC help also from The Examiner of Excellence, Jessica Beck. This podcast is for adult students who are professionals and university students as well as ESL teachers. Join Lindsay and Michelle and the All Ears English community to learn to speak American English like a native! Connection NOT Perfection!
-  -
-    name:  English as a Second Language (ESL) Podcast
-    website: http://www.eslpod.com/
-    rss: http://feeds.feedburner.com/englishasasecondlanguagepodcast
-    episode_duration: 20
-    description: A podcast for those wanting to learn or improve their English - great for any ESL or EFL learner. Visit us at http://www.eslpod.com.
 
+  -
+    name:  Luke's English Podcast
+    website: https://teacherluke.co.uk/
+    rss: https://access.acast.com/rss/62b0ada25c7ea10012f541cb/
+    episode_duration: 60
+    description: British 口音，建议挑自己喜欢的话题听
+
+  -
+    name: Acquired
+    website: https://www.acquired.fm/
+    rss: https://feeds.transistor.fm/acquired
+    episode_duration: 120
+    description: 聊公司背后的故事, 非常推荐，我非常喜欢任天堂，高通，还有宜家那几期。 其实我还想推荐Hidden brain， 但是不想列太多了。
 
 新闻消息/娱乐/生活/人文:
   -
@@ -89,13 +83,6 @@ IPN/技术:
     rss: http://feeds.feedburner.com/talkonlypc
     description: Give you the latest IT news in cantonese every Sunday.
     episode_duration: 60
-  -
-    name: 随口说美国
-    website: https://www.ximalaya.com/zhubo/3239336/
-    rss: http://www.ximalaya.com/album/246092.xml
-    episode_duration: 60
-    description: "作为美国新移民家庭，随口讲述美国生活的点点滴滴.
-从昔日的国内高管到第一个讲述海外的喜马拉雅头部主播，自由君完成了一次次身份的蜕变，目前他既是一个关注生活点滴的新移民家庭的爸爸，又是一个普通的中美跨境创业者，作为移民路上的先行者，他将告诉你他看见的真实美国。"
 
 影视:
   -
@@ -120,6 +107,20 @@ IPN/技术:
 
 
 科学/科普/历史/生活:
+  -
+    name: 半拿铁
+    website: https://pod.link/1615939013
+    rss: https://proxy.wavpub.com/caffebreve.xml
+    episode_duration: 60
+    featured: true
+    description: 财经媒体人和互联网老兵陪你闲聊商业见闻。来杯半拿铁，边喝边唠（个人觉得类似英语播客 Acquired)
+  -
+    name: 跟宇宙结婚
+    website: https://pod.link/1111896980
+    rss: https://rss.lizhi.fm/rss/1307862.xml
+    episode_duration: 60
+    featured: true
+    description: 《跟宇宙结婚》节目是一档巨型文化知识类聊天节目，妄图传播各种无用/冷门/过时但有趣的知识，主播队伍由小伙子、青年、刀夫三位老师领衔。内容丰富多彩，气氛诙谐调皮，是您生活中的良师益友
   -
     name: 原来是这样/旭岽叨科学
     website: https://www.ximalaya.com/keji/246622/
@@ -154,12 +155,6 @@ IPN/技术:
     video: true
     episode_duration: 30
     description: 听君一席话，胜读十年书。「一席」致力于有价值的传播，从2012年8月起，每月一期，邀请人文、科技领域有故事、有智识的嘉宾前来分享见解、体验和对未来的想象。官网：www.yixi.tv 新浪微博：@一席YiXi 微信：yixiclub
-  -
-    name: 非常记录
-    website: https://itunes.apple.com/cn/podcast/fei-chang-ji-lu/id808485910
-    rss: http://feed.cri.cn/rss/a665f130-df8b-43a0-b740-e0a031b285f5
-    description: 《非常纪录》是中国国际广播电台华语广播一档资深的历史人文类节目，旨在“发现历史、照亮未来”。节目内容以中国近、当代史为主，兼顾当下中国人的生活，小故事、大背景，人文角度，真实客观的呈近代以来的中国社会，讲述地道，制作精良。关注微信订阅号 CRI Podcast 及时了解节目更新动态。
-    episode_duration: 30
 
   -
     name: 汤小电台
@@ -174,26 +169,6 @@ IPN/技术:
     rss: http://www.lizhi.fm/rss/1635236.xml
     description: 一档关于一切声音的播客节目
     episode_duration: 60
-  -
-    name: 卓老板聊科技
-    website: https://www.ximalaya.com/keji/335347/
-    rss: http://www.ximalaya.com/album/335347.xml
-    description: 理工味逻辑思维，更新人们陈旧观点。还有更精彩内容在《第二季》中！
-    episode_duration: 10
-  -
-    name: 陌声人
-    website: http://www.moofm.com/
-    rss: http://www.ximalaya.com/album/238119.xml
-    itunes: https://itunes.apple.com/cn/podcast/mo-sheng-ren/id482922564?mt=2
-    description: 陌声人，一个人的精神良药，能给你的小惊喜与耳边的温暖。陌声人广播是一非盈利性质播客自媒体品牌。我们不断开展类型化有声节目的制作与传播。陌声人广播在08年的时候由豆瓣“一个陌生人的来信”小组成员举办的录音活动开始。于2010年12月31日在豆瓣小站正式上线。2011年1月登录Podcast，连续3个季度蝉联播客榜前三名，被评为2012最受欢迎播客之一/2014经典播客之一，先后吸引了很多伙伴的加入及参与。自2011年1月到现在，前后共约200人加入。常规驻站成员约45名。共生产节目超过1020个。各平台累计关注人数：480000+人。公众号粉丝3.8W人。全平台节目总下载收听量71000000余次(2017.6)。陌声人的节目以 阅读 电影 情感 为主基调，有情感播客《精神良药》，电影播客《毒家观影指南》，荐书阅读节目《喂你读书》。并积极策划制作了多种特辑有声节目：话题脱口秀《听说》、《音乐玩家》、《有戏》、《原味生活》、《寻爱纪》、《青春记事》、《玫瑰时光》、《一诗一信》、《超级大话王》、《你的岁月我的歌》、《品味经典宫崎骏》、《似水流年岁月如歌》等。陌声人官方自媒体平台包括：官方网站moofm.com；新浪微博@陌声人；微信公众号mmoofm。陌声人播客节目可以通过官方网站、苹果Podcast、喜马拉雅FM、荔枝FM等平台进行订阅收听。我们只是分享你我共同的生活经验并聊聊那些听说的故事！
-    episode_duration: 10
-  -
-    name: 以科技提升效率，用效率改变生活。
-    website: http://checked.fm/
-    rss: http://checked.fm/feed/podcast
-    description: 以科技提升效率，用效率改变生活。
-    episode_duration: 90
-
   -
     name: 四叶草瑶
     website: https://www.lizhi.fm/user/54642
@@ -214,14 +189,20 @@ IPN/技术:
     rss: http://feeds.jjldbk.com/all.xml
     description: 一群天津人创建的播客节目，每期胡侃一个新鲜话题
     episode_duration: 80
+  -
+    name: 闲白儿播客
+    website: https://pod.link/885314418
+    rss: https://rss.lizhi.fm/rss/11179.xml
+    description: 活着不能太正经
+    episode_duration: 60
 
 
 设计:
   -
     name: UX Coffee 设计咖
     highlight: Google & Spotify & Facebook等公司的设计师做嘉宾
-    website: http://www.uxcoffee.com/
-    rss: https://rss.simplecast.com/podcasts/1897/rss
+    website: https://uxcoffee.com/
+    rss: https://uxcoffee.com/feed.xml
     description: 聊聊设计和用户体验
     episode_duration: 40
   -

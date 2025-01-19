@@ -1,4 +1,4 @@
-<!-- Generated at 2019-06-29 15:28:21 +0800 --> 
+<!-- Generated at 2025-01-20 01:45:14 +0200 --> 
 # 一些不错的中文播客 :smile:
   - **[播客软件](#播客软件)**
   - [**英语播客**](https://github.com/rShetty/awesome-podcasts)
@@ -23,7 +23,7 @@
 </details>
 <details open='true'>
 <summary title='展开'>
-  <a href="https://kernelpanic.fm/" title="https://kernelpanic.fm/"><b>内核恐慌 KernelPanic 👍</b></a> <img title="时长分钟"
+  <a href="https://pan.icu/" title="https://pan.icu/"><b>内核恐慌 KernelPanic 👍</b></a> <img title="时长分钟"
          src="https://img.shields.io/badge/90m-免费-brightgreen.svg">
     
 </summary>
@@ -34,12 +34,12 @@
 
 <p>
 
-> 《内核恐慌》是一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。 &nbsp; <a href='https://kernelpanic.fm/feed' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+> 《内核恐慌》是一档由 Rio 和吴涛主持的科技播客。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。 &nbsp; <a href='https://pan.icu/feed' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
 </p>
 </details>
 <details open='true'>
 <summary title='展开'>
-  <a href="https://bowuzhi.fm" title="https://bowuzhi.fm">博物志MUSEELOGUE</a> <img title="时长分钟"
+  <a href="https://bowuzhi.fm" title="https://bowuzhi.fm">博物志</a> <img title="时长分钟"
          src="https://img.shields.io/badge/60m-有会员-yellow.svg">
     
 </summary>
@@ -50,12 +50,12 @@
 
 <p>
 
-> 博物馆主题的娱乐节目 &nbsp; <a href='https://museelogue.fireside.fm/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+> 博物馆主题的娱乐节目 &nbsp; <a href='https://bowuzhi.fm/feed/audio.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
 </p>
 </details>
 <details open='true'>
 <summary title='展开'>
-  <a href="https://taiyilaile.com" title="https://taiyilaile.com"><b>太医来了 👍</b></a> <img title="时长分钟"
+  <a href="https://taiyilaile.com" title="https://taiyilaile.com">太医来了 (已停更)</a> <img title="时长分钟"
          src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
     
 </summary>
@@ -71,23 +71,7 @@
 </details>
 <details open='true'>
 <summary title='展开'>
-  <a href="http://fashionmonster.fm/" title="http://fashionmonster.fm/">时尚怪物</a> <img title="时长分钟"
-         src="https://img.shields.io/badge/30m-免费-brightgreen.svg">
-    
-</summary>
-<p>
-
-  
-</p>
-
-<p>
-
-> 《时尚怪物》是一档不只谈时尚的播客节目，王汉洋主持，IPN 出品。 &nbsp; <a href='http://fashionmonster.fm/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
-</p>
-</details>
-<details open='true'>
-<summary title='展开'>
-  <a href="https://banlan.show/bitvoice" title="https://banlan.show/bitvoice">比特新声</a> <img title="时长分钟"
+  <a href="https://bitvoice.banlan.show/" title="https://bitvoice.banlan.show/">比特新声</a> <img title="时长分钟"
          src="https://img.shields.io/badge/90m-免费-brightgreen.svg">
     
 </summary>
@@ -98,7 +82,7 @@
 
 <p>
 
-> 《比特新声》是由郝海龙和有才主持的中文科技类播客。在节目中，我们会尽量避免不加解释地使用过于抽象的科技术语，力争让每一个有独立思考能力的人听懂我们的节目。我们坚信凡实验性的东西都有一种独特的魅力，好奇心是第一生产力，同时希望用不同的观点去描述我们所处的时代。 &nbsp; <a href='https://banlan.show/bitvoice.rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+> 《比特新声》是由郝海龙和有才主持的中文科技类播客。在节目中，我们会尽量避免不加解释地使用过于抽象的科技术语，力争让每一个有独立思考能力的人听懂我们的节目。我们坚信凡实验性的东西都有一种独特的魅力，好奇心是第一生产力，同时希望用不同的观点去描述我们所处的时代。 &nbsp; <a href='https://bitvoice.banlan.show/feed.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
 </p>
 </details>
 <details open='true'>
@@ -121,8 +105,8 @@
  ## 英语学习 
 <details open='true'>
 <summary title='展开'>
-  <a href="https://www.allearsenglish.com/episodes/" title="https://www.allearsenglish.com/episodes/"><b>All Ears English(正常语速, 推荐) 👍</b></a> <img title="时长分钟"
-         src="https://img.shields.io/badge/20m-免费-brightgreen.svg">
+  <a href="https://www.acquired.fm/" title="https://www.acquired.fm/">Acquired</a> <img title="时长分钟"
+         src="https://img.shields.io/badge/120m-免费-brightgreen.svg">
     
 </summary>
 <p>
@@ -132,13 +116,13 @@
 
 <p>
 
-> Are you looking for a new and fun way to learn American English? Come hang out with Lindsay and Michelle from Boston and New York City and have fun while you improve your English listening skills! All Ears English is an English as a Second Language (ESL) podcast for intermediate to advanced learners around the world. Teachers Lindsay McMahon and Michelle Kaplan will show you how to use everyday vocabulary and natural idioms, expressions, and phrasal verbs and how to make small talk in American English. We will also give you special tips on American culture, customs, etiquette, and how to speak with Americans as well as conversation and commentary on study tips, life in America and Boston, how to apply to university in the US, dating, travel, food and more. You'll get TOEFL, IELTS, and TOEIC help also from The Examiner of Excellence, Jessica Beck. This podcast is for adult students who are professionals and university students as well as ESL teachers. Join Lindsay and Michelle and the All Ears English community to learn to speak American English like a native! Connection NOT Perfection! &nbsp; <a href='http://allearsenglish.libsyn.com/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+> 聊公司背后的故事, 非常推荐，我非常喜欢任天堂，高通，还有宜家那几期。 其实我还想推荐Hidden brain， 但是不想列太多了。 &nbsp; <a href='https://feeds.transistor.fm/acquired' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
 </p>
 </details>
 <details open='true'>
 <summary title='展开'>
-  <a href="http://www.eslpod.com/" title="http://www.eslpod.com/">English as a Second Language (ESL) Podcast</a> <img title="时长分钟"
-         src="https://img.shields.io/badge/20m-免费-brightgreen.svg">
+  <a href="https://teacherluke.co.uk/" title="https://teacherluke.co.uk/">Luke's English Podcast</a> <img title="时长分钟"
+         src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
     
 </summary>
 <p>
@@ -148,7 +132,7 @@
 
 <p>
 
-> A podcast for those wanting to learn or improve their English - great for any ESL or EFL learner. Visit us at http://www.eslpod.com. &nbsp; <a href='http://feeds.feedburner.com/englishasasecondlanguagepodcast' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+> British 口音，建议挑自己喜欢的话题听 &nbsp; <a href='https://access.acast.com/rss/62b0ada25c7ea10012f541cb/' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
 </p>
 </details>
 
@@ -199,22 +183,6 @@
 <p>
 
 > Give you the latest IT news in cantonese every Sunday. &nbsp; <a href='http://feeds.feedburner.com/talkonlypc' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
-</p>
-</details>
-<details open='true'>
-<summary title='展开'>
-  <a href="https://www.ximalaya.com/zhubo/3239336/" title="https://www.ximalaya.com/zhubo/3239336/">随口说美国</a> <img title="时长分钟"
-         src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
-    
-</summary>
-<p>
-
-  
-</p>
-
-<p>
-
-> 作为美国新移民家庭，随口讲述美国生活的点点滴滴. 从昔日的国内高管到第一个讲述海外的喜马拉雅头部主播，自由君完成了一次次身份的蜕变，目前他既是一个关注生活点滴的新移民家庭的爸爸，又是一个普通的中美跨境创业者，作为移民路上的先行者，他将告诉你他看见的真实美国。 &nbsp; <a href='http://www.ximalaya.com/album/246092.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
 </p>
 </details>
 
@@ -287,8 +255,8 @@
 </details>
 <details open='true'>
 <summary title='展开'>
-  <a href="http://checked.fm/" title="http://checked.fm/">以科技提升效率，用效率改变生活。</a> <img title="时长分钟"
-         src="https://img.shields.io/badge/90m-免费-brightgreen.svg">
+  <a href="https://pod.link/1615939013" title="https://pod.link/1615939013"><b>半拿铁 👍</b></a> <img title="时长分钟"
+         src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
     
 </summary>
 <p>
@@ -298,23 +266,7 @@
 
 <p>
 
-> 以科技提升效率，用效率改变生活。 &nbsp; <a href='http://checked.fm/feed/podcast' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
-</p>
-</details>
-<details open='true'>
-<summary title='展开'>
-  <a href="https://www.ximalaya.com/keji/335347/" title="https://www.ximalaya.com/keji/335347/">卓老板聊科技</a> <img title="时长分钟"
-         src="https://img.shields.io/badge/10m-免费-brightgreen.svg">
-    
-</summary>
-<p>
-
-  
-</p>
-
-<p>
-
-> 理工味逻辑思维，更新人们陈旧观点。还有更精彩内容在《第二季》中！ &nbsp; <a href='http://www.ximalaya.com/album/335347.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+> 财经媒体人和互联网老兵陪你闲聊商业见闻。来杯半拿铁，边喝边唠（个人觉得类似英语播客 Acquired) &nbsp; <a href='https://proxy.wavpub.com/caffebreve.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
 </p>
 </details>
 <details open='true'>
@@ -447,8 +399,8 @@
 </details>
 <details open='true'>
 <summary title='展开'>
-  <a href="http://www.moofm.com/" title="http://www.moofm.com/">陌声人</a> <img title="时长分钟"
-         src="https://img.shields.io/badge/10m-免费-brightgreen.svg">
+  <a href="https://pod.link/1111896980" title="https://pod.link/1111896980"><b>跟宇宙结婚 👍</b></a> <img title="时长分钟"
+         src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
     
 </summary>
 <p>
@@ -458,13 +410,13 @@
 
 <p>
 
-> 陌声人，一个人的精神良药，能给你的小惊喜与耳边的温暖。陌声人广播是一非盈利性质播客自媒体品牌。我们不断开展类型化有声节目的制作与传播。陌声人广播在08年的时候由豆瓣“一个陌生人的来信”小组成员举办的录音活动开始。于2010年12月31日在豆瓣小站正式上线。2011年1月登录Podcast，连续3个季度蝉联播客榜前三名，被评为2012最受欢迎播客之一/2014经典播客之一，先后吸引了很多伙伴的加入及参与。自2011年1月到现在，前后共约200人加入。常规驻站成员约45名。共生产节目超过1020个。各平台累计关注人数：480000+人。公众号粉丝3.8W人。全平台节目总下载收听量71000000余次(2017.6)。陌声人的节目以 阅读 电影 情感 为主基调，有情感播客《精神良药》，电影播客《毒家观影指南》，荐书阅读节目《喂你读书》。并积极策划制作了多种特辑有声节目：话题脱口秀《听说》、《音乐玩家》、《有戏》、《原味生活》、《寻爱纪》、《青春记事》、《玫瑰时光》、《一诗一信》、《超级大话王》、《你的岁月我的歌》、《品味经典宫崎骏》、《似水流年岁月如歌》等。陌声人官方自媒体平台包括：官方网站moofm.com；新浪微博@陌声人；微信公众号mmoofm。陌声人播客节目可以通过官方网站、苹果Podcast、喜马拉雅FM、荔枝FM等平台进行订阅收听。我们只是分享你我共同的生活经验并聊聊那些听说的故事！ &nbsp; <a href='http://www.ximalaya.com/album/238119.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+> 《跟宇宙结婚》节目是一档巨型文化知识类聊天节目，妄图传播各种无用/冷门/过时但有趣的知识，主播队伍由小伙子、青年、刀夫三位老师领衔。内容丰富多彩，气氛诙谐调皮，是您生活中的良师益友 &nbsp; <a href='https://rss.lizhi.fm/rss/1307862.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
 </p>
 </details>
 <details open='true'>
 <summary title='展开'>
-  <a href="https://itunes.apple.com/cn/podcast/fei-chang-ji-lu/id808485910" title="https://itunes.apple.com/cn/podcast/fei-chang-ji-lu/id808485910">非常记录</a> <img title="时长分钟"
-         src="https://img.shields.io/badge/30m-免费-brightgreen.svg">
+  <a href="https://pod.link/885314418" title="https://pod.link/885314418">闲白儿播客</a> <img title="时长分钟"
+         src="https://img.shields.io/badge/60m-免费-brightgreen.svg">
     
 </summary>
 <p>
@@ -474,7 +426,7 @@
 
 <p>
 
-> 《非常纪录》是中国国际广播电台华语广播一档资深的历史人文类节目，旨在“发现历史、照亮未来”。节目内容以中国近、当代史为主，兼顾当下中国人的生活，小故事、大背景，人文角度，真实客观的呈近代以来的中国社会，讲述地道，制作精良。关注微信订阅号 CRI Podcast 及时了解节目更新动态。 &nbsp; <a href='http://feed.cri.cn/rss/a665f130-df8b-43a0-b740-e0a031b285f5' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+> 活着不能太正经 &nbsp; <a href='https://rss.lizhi.fm/rss/11179.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
 </p>
 </details>
 
@@ -497,7 +449,7 @@
 </details>
 <details open='true'>
 <summary title='展开'>
-  <a href="http://www.uxcoffee.com/" title="http://www.uxcoffee.com/">UX Coffee 设计咖</a> <img title="时长分钟"
+  <a href="https://uxcoffee.com/" title="https://uxcoffee.com/">UX Coffee 设计咖</a> <img title="时长分钟"
          src="https://img.shields.io/badge/40m-免费-brightgreen.svg">
     
 </summary>
@@ -508,7 +460,7 @@
 
 <p>
 
-> 聊聊设计和用户体验 &nbsp; <a href='https://rss.simplecast.com/podcasts/1897/rss' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
+> 聊聊设计和用户体验 &nbsp; <a href='https://uxcoffee.com/feed.xml' title='订阅'> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rss-feed.svg" width="20" height="20"> </a>
 </p>
 </details>
 
@@ -534,21 +486,17 @@
   * **Android**
     * [Player FM](https://play.google.com/store/apps/details?id=fm.player)  免费且没广告(暂时不支持登录验证的RSS)
     * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) 功能全, 免费版有banner广告,不影响使用
-    * [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
-    * [更多...](https://play.google.com/store/search?q=podcasts)
+    * [AntennaPod](https://github.com/AntennaPod/AntennaPod) A podcast manager for Android, opensource
   * **IOS**
-    * Itunes
-    * [Podcasts](https://itunes.apple.com/us/app/podcasts/id525463029?mt=8) 苹果自己的
+    * Podcasts (By Apple)
     * [Overcast](https://overcast.fm/) Overcast is free, supported by tasteful ads and an optional subscription to remove them.
   * **macOS**
-    * Itunes
+    * Podcasts (By Apple)
   * **Linux**
     * [Winds](https://getstream.io/winds): windows, MacOS, Linux 都有
     * [Vocal](https://vocalproject.net/)
     * [gpodder](https://gpodder.github.io/)
     * [Clementine](https://www.clementine-player.org/)
-    * [cantata](https://github.com/CDrummond/cantata)
-    * [Greg](https://github.com/manolomartinez/greg): python写的命令行工具用来下载订阅的podcasts
   * **Web**
     * [Winds](https://winds.getstream.io/)
     * [Player FM](https://player.fm/)
